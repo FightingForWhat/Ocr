@@ -14,6 +14,7 @@ target: https://github.com/RapidAI/RapidOcrOnnx
 将source code下载，执行build_windows.bat
 
 文件树如下：
+```
 .
 │  build_windows.bat
 │  CMakeLists.txt
@@ -40,3 +41,4 @@ target: https://github.com/RapidAI/RapidOcrOnnx
     │
     └─lib
             RapidOcrOnnx.lib
+```
